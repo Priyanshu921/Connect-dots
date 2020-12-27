@@ -1,0 +1,15 @@
+.a {
+    height: 120px;
+    width: 120px;
+    border:solid 4px black;
+    background-color: #bbb;
+    border-radius: 100%;
+    display: inline-block;
+  }
+  .blue{
+      background-color:blue;
+  }
+  .red{
+    background-color:red;
+  }
+
